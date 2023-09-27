@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ath2024" target="blank"><img src="https://img.shields.io/twitter/follow/ath2024?logo=twitter&style=for-the-badge" alt="ath2024" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter,FireBase**
+- 🌱 I’m currently learning **React,NodeJS**
 
 - 💬 Ask me about **Android**
 
